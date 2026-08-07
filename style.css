@@ -210,7 +210,7 @@ ul {
    QUEM SOMOS
    ============================================================ */
 .quem-somos {
-  background-color: var(--azul-claro);
+ background-image: url('image.png.png');
 }
 
 .quem-somos__texto {
